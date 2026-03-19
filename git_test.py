@@ -1,4 +1,4 @@
 print("hello git world!")
-prit("welcom to git")
+prit("welcome to git")
 print("I edited this")
 print("testing gitignore")
